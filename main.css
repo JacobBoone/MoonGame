@@ -1,0 +1,45 @@
+html, body{
+	height: 100%;
+}
+
+i{
+	font-size: 70px;
+}
+
+.sky{
+	height: 75%;
+	position: relative;
+	text-align:center;
+	background-color: lightgrey;
+}
+
+
+.earth{
+	height: 25%;
+	background-color: darkgreen;
+}
+
+.penguin{
+	position: absolute;
+	bottom: 0px;
+}
+
+#moon{
+	position: absolute;	
+	color: white;
+	font-size: 175px;
+
+
+}
+
+.icon-twitter-bird{
+	position: absolute;
+	color: #6666FF;
+}
+.flock{
+	position: absolute;
+	display: inline-block;
+	height: 50px;
+	width: 200px;
+
+}
