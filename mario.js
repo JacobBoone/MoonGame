@@ -57,7 +57,8 @@ var MAX_LEFT = 95;
 
 	}
 	Penguin.prototype.create = function(){
-		this.el =$('<img src="http://whatculture.com/wp-content/uploads/2012/05/Penguin-Suit-Mario.png">');
+		// this.el =$('<img src="http://whatculture.com/wp-content/uploads/2012/05/Penguin-Suit-Mario.png">');
+		this.el =$('<img class="mario" src="http://img4.wikia.nocookie.net/__cb20120317184553/mario/images/5/5c/Jumping_Mario_Artwork_-_New_Super_Mario_Bros._Wii.png">');
 		return this.el;
 	}
 
