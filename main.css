@@ -11,12 +11,14 @@ i{
 	position: relative;
 	text-align:center;
 	background-color: lightgrey;
+	/*background-image: url("http://a66c7b.medialib.glogster.com/media/4b/4bfc7ab9cbb9af15703eefca695d54b5dc2d5a8a8bf75777fee4636184b8f262/image035.jpg");*/
 }
 
 
 .earth{
 	height: 25%;
-	background-color: darkgreen;
+	/*background-color: darkgreen;*/
+	background-image: url("http://us.cdn3.123rf.com/168nwm/irrrina/irrrina1403/irrrina140300053/27263813-abstract-blue-square-background-used-mesh-layers-and-transparency-layers.jpg");
 }
 
 .penguin{
